@@ -1,0 +1,133 @@
+[
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "DisableDamp",
+    "RelativePath": "api/ClientService/DisableDamp",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "EnableDamp",
+    "RelativePath": "api/ClientService/EnableDamp",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maxPrecent",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "GetTable",
+    "RelativePath": "api/ClientService/GetTable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "Login",
+    "RelativePath": "api/ClientService/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "ClientService.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "SetMerchant",
+    "RelativePath": "api/ClientService/SetMerchant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "halykCredentialDto",
+        "Type": "ClientService.Models.HalykCredentialDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "SetTable",
+    "RelativePath": "api/ClientService/SetTable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userSettingsDto",
+        "Type": "ClientService.Models.UserSettingsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "SetTelegramId",
+    "RelativePath": "api/ClientService/SetTalegramId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "ClientService.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.ClientServiceController",
+    "Method": "UpdateTable",
+    "RelativePath": "api/ClientService/UpdateTable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientService.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ClientService.WeatherForecast, ClientServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
