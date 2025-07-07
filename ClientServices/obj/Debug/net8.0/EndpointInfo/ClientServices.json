@@ -266,6 +266,14 @@
             "type": "string",
             "nullable": true
           },
+          "fitstMarketPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "lastMarketPrice": {
+            "type": "number",
+            "format": "double"
+          },
           "actualPrice": {
             "type": "number",
             "format": "double",
@@ -280,6 +288,11 @@
             "nullable": true
           },
           "remains": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "place": {
             "type": "integer",
             "format": "int32",
             "nullable": true
@@ -321,6 +334,9 @@
           "maxPersent": {
             "type": "number",
             "format": "double"
+          },
+          "enableDump": {
+            "type": "boolean"
           },
           "settings": {
             "type": "array",

@@ -3,32 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\utils\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\utils\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\models\\dtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\models\\dtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\utils\\encryptionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\utils\\encryptionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\utils\\analystutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\utils\\analystutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\utils\\halykservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\utils\\halykservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\controllers\\clientservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\controllers\\clientservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\utils\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\utils\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\migrations\\20250628190152_market_price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\migrations\\20250628190152_market_price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\models\\entitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\models\\entitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\clientservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\clientservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\clientservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\clientservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|c:\\users\\pc\\desktop\\marketbot\\clientservices\\clientservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D731D49F-00FF-4801-8C6E-B52527D36DAB}|ClientServices\\ClientServices.csproj|solutionrelative:clientservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,46 +86,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\TokenService.cs",
-              "RelativeDocumentMoniker": "ClientServices\\Utils\\TokenService.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\TokenService.cs",
-              "RelativeToolTip": "ClientServices\\Utils\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Program.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Program.cs",
+              "RelativeToolTip": "ClientServices\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:35:29.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T08:29:12.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ClientService.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Services\\ClientService.cs",
               "RelativeDocumentMoniker": "ClientServices\\Services\\ClientService.cs",
               "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Services\\ClientService.cs",
               "RelativeToolTip": "ClientServices\\Services\\ClientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwJAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:34:47.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T04:04:46.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\TokenService.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Utils\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\TokenService.cs",
+              "RelativeToolTip": "ClientServices\\Utils\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:44:19.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ClientServices",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.csproj",
-              "RelativeDocumentMoniker": "ClientServices\\ClientServices.csproj",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.csproj*",
-              "RelativeToolTip": "ClientServices\\ClientServices.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T08:28:40.703Z",
+              "Title": "ClientServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Controllers\\ClientServiceController.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Controllers\\ClientServiceController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Controllers\\ClientServiceController.cs",
+              "RelativeToolTip": "ClientServices\\Controllers\\ClientServiceController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:24:11.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalystUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\AnalystUtils.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Utils\\AnalystUtils.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\AnalystUtils.cs",
+              "RelativeToolTip": "ClientServices\\Utils\\AnalystUtils.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:19:31.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtoModels.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Models\\DtoModels.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Models\\DtoModels.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Models\\DtoModels.cs",
+              "RelativeToolTip": "ClientServices\\Models\\DtoModels.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAywBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:54:20.401Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\appsettings.json",
+              "RelativeToolTip": "ClientServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T08:28:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClientServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClientServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T17:45:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HalykService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\HalykService.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Utils\\HalykService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\HalykService.cs",
+              "RelativeToolTip": "ClientServices\\Utils\\HalykService.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAcwIUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:37:24.352Z"
             },
             {
               "$type": "Document",
@@ -87,14 +207,109 @@
               "RelativeDocumentMoniker": "ClientServices\\Utils\\EncryptionUtils.cs",
               "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Utils\\EncryptionUtils.cs",
               "RelativeToolTip": "ClientServices\\Utils\\EncryptionUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:30:13.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T18:05:56.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Dockerfile",
+              "RelativeDocumentMoniker": "ClientServices\\Dockerfile",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Dockerfile",
+              "RelativeToolTip": "ClientServices\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T05:33:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250628190152_market_price.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Migrations\\20250628190152_market_price.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Migrations\\20250628190152_market_price.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Migrations\\20250628190152_market_price.cs",
+              "RelativeToolTip": "ClientServices\\Migrations\\20250628190152_market_price.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:12:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Models\\EntityModels.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Models\\EntityModels.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Models\\EntityModels.cs",
+              "RelativeToolTip": "ClientServices\\Models\\EntityModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:04:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\.dockerignore",
+              "RelativeDocumentMoniker": "ClientServices\\.dockerignore",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\.dockerignore",
+              "RelativeToolTip": "ClientServices\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T05:34:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ClientServices\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ClientServices\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:02:21.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientServices.http",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.http",
+              "RelativeDocumentMoniker": "ClientServices\\ClientServices.http",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.http",
+              "RelativeToolTip": "ClientServices\\ClientServices.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-29T06:47:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientServices.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.csproj",
+              "RelativeDocumentMoniker": "ClientServices\\ClientServices.csproj",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\ClientServices.csproj",
+              "RelativeToolTip": "ClientServices\\ClientServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T08:28:40.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\.env",
+              "RelativeDocumentMoniker": "ClientServices\\.env",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\.env",
+              "RelativeToolTip": "ClientServices\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T06:07:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ClientServices\\WeatherForecast.cs",
@@ -102,34 +317,7 @@
               "RelativeToolTip": "ClientServices\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:29:27.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Program.cs",
-              "RelativeDocumentMoniker": "ClientServices\\Program.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\Program.cs",
-              "RelativeToolTip": "ClientServices\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:29:12.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\appsettings.json",
-              "RelativeDocumentMoniker": "ClientServices\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\MarketBot\\ClientServices\\ClientServices\\appsettings.json",
-              "RelativeToolTip": "ClientServices\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-28T08:28:50.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T08:29:27.468Z"
             }
           ]
         }

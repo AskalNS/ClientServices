@@ -9,6 +9,7 @@ using WebApplication1.Utils;
 using System.Numerics;
 using Microsoft.VisualBasic;
 using SendGrid.Helpers.Errors.Model;
+using System.Reflection.Metadata;
 
 namespace ClientService.Services
 {
@@ -154,11 +155,13 @@ namespace ClientService.Services
             Guid guid = Guid.Parse(userId);
             UserSettingsDTO userSettingDTO = new UserSettingsDTO();
 
+            var halCred = _context.HalykCredentials.FirstOrDefault(x => x.UserId == guid);
+            if (halCred == null) throw new ForbiddenException();
+
             var interUser = _context.IntegratedUsers.FirstOrDefault(x => x.UserId == guid);
 
-            if (interUser == null) throw new ForbiddenException();
-
-            userSettingDTO.MaxPersent = interUser.MaxPersent;
+            userSettingDTO.MaxPersent = interUser == null ? 0 : interUser.MaxPersent;
+            userSettingDTO.EnableDump = interUser != null;  
             userSettingDTO.settings = new List<Setting>();
 
             var settings = _context.UserSettings.Where(x => x.UserId == guid).ToList();
@@ -178,12 +181,12 @@ namespace ClientService.Services
             if (interUser != null)
             {
                 interUser.MaxPersent = userSettingsDto.MaxPersent;
-                _context.SaveChanges();
+                await _context.SaveChangesAsync();
             }
 
             foreach (var item in userSettingsDto.settings)
             {
-                var userSettings = await _context.UserSettings.FirstOrDefaultAsync(u => u.UserId == guid);
+                var userSettings = await _context.UserSettings.FirstOrDefaultAsync(u => u.MerchantProductCode == item.MerchantProductCode);
 
                 if (userSettings == null) _context.UserSettings.Add(Mapper.ToUserSettings(item, guid));
                 else
@@ -193,9 +196,8 @@ namespace ClientService.Services
                     userSettings.MinPrice = item.MinPrice.HasValue ? item.MinPrice.Value : 0d;
                 }
 
-                _context.SaveChanges();
             }
-
+            await _context.SaveChangesAsync();
             return new OkResult();
         }
 

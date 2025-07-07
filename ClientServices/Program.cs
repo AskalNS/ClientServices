@@ -45,4 +45,12 @@ app.UseHttpsRedirection();
 app.UseCors();
 app.UseAuthorization();
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    Console.WriteLine(builder.Configuration.GetConnectionString("DefaultConnection"));
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    db.Database.EnsureCreated(); // <== создаёт БД по моделям, без миграций
+}
+
 app.Run();

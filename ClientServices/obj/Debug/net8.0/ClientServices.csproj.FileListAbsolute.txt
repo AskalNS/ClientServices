@@ -75,3 +75,6 @@ C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\obj\Debug\net8.0\ref
 C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\obj\Debug\net8.0\ClientServices.pdb
 C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\obj\Debug\net8.0\ClientServices.genruntimeconfig.cache
 C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\obj\Debug\net8.0\ref\ClientServices.dll
+C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\obj\Debug\net8.0\ClientServices.sourcelink.json
+C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Pc\Desktop\MarketBot\ClientServices\ClientServices\bin\Debug\net8.0\UnidecodeSharpFork.dll

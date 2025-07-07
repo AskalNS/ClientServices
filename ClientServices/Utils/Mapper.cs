@@ -16,6 +16,7 @@ namespace ClientService.Utils
                 ActualPrice = userSettings.ActualPrice,
                 ImageUrl = userSettings.ImageUrl,
                 Remains = userSettings.Remains,
+                Place = userSettings.Place,
                 IsDump = userSettings.IsDump,
                 MaxPrice = userSettings.MaxPrice,
                 MinPrice = userSettings.MinPrice
@@ -35,6 +36,7 @@ namespace ClientService.Utils
                 ActualPrice = setting.ActualPrice.Value,
                 ImageUrl = setting.ImageUrl,
                 Remains = setting.Remains.Value,
+                Place = setting.Place.Value,
                 IsDump = setting.IsDump.Value,
                 MaxPrice = setting.MaxPrice.Value,
                 MinPrice = setting.MinPrice.Value
